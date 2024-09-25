@@ -1,21 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
-<<<<<<< HEAD
---- !u!114 &-2852539642711287046
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 7
-=======
->>>>>>> 93f00f4f2a23671386b38888d490b598ef2ec3dd
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -24,11 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Walls
-<<<<<<< HEAD
-  m_Shader: {fileID: -6465566751694194690, guid: 278c3781044b86b4b9f664b1f1a228ae, type: 3}
-=======
-  m_Shader: {fileID: -6465566751694194690, guid: 8a2c9d23126f6b6419dcf61062c98dfc, type: 3}
->>>>>>> 93f00f4f2a23671386b38888d490b598ef2ec3dd
+  m_Shader: {fileID: -6465566751694194690, guid: 33cc603219e209144bbbb9ffa5b9e8d5,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -138,9 +119,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
-<<<<<<< HEAD
-=======
---- !u!114 &8245102607488501231
+--- !u!114 &2491695927062516389
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -153,4 +132,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 7
->>>>>>> 93f00f4f2a23671386b38888d490b598ef2ec3dd
